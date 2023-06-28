@@ -1,0 +1,24 @@
+body{
+  background-color: #34e1eb;
+}
+
+h1{
+  border: 1px solid black;
+}
+h2{
+  color: purple;
+}
+input{
+  border: 2px solid rgba(255, 0, 0, 0.5);
+}
+p{
+  background-color: #ebde34;
+}
+#textblock{
+  border: 5px solid gray;
+  width: 800px;
+  height: 400px;
+}
+a:visited{
+  color: blue;
+}
